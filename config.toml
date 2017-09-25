@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "ASM News"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
