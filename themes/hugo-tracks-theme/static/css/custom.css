@@ -1,1 +1,12 @@
 /* your styles go here */
+.top-navigation {
+  background: #061c4c;
+}
+
+.site-header {
+  border-top: solid 1em #061c4c;
+  border-bottom: solid 1em red;
+}
+body {
+  background: none;
+}
