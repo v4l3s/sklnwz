@@ -6,6 +6,7 @@ image= "img/img.jpg"
 # Students Kill Other Students
 
 Why would any student wish to do such thing?
+<!--more-->
 Well, that's the question isn't it?
 To answer it, today I will show you all this awesome thing. It's dope. Really.
 
