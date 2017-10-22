@@ -4,7 +4,7 @@ image = "img/portfolio/a4-paper.jpg"
 
 date = "2017-11-05"
 
-title = “Edible Students”
+title = "Edible Students"
 
 +++
 
