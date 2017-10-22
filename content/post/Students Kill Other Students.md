@@ -1,6 +1,5 @@
 +++
 author= "Parsuli"
-date=“2017-10-22”
 image= "img/img.jpg"
 +++
 # Students Kill Other Students
