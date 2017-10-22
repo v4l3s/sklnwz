@@ -1,4 +1,4 @@
-+++ date='2017-10-22' image='<IMG/IMG.JPG>' title='<TITLE OF POST> '+++
++++ date="2017-10-22" image="<IMG/IMG.JPG>" title="<TITLE OF POST>" +++
  
 Why would students eat each other?
 ==================================
