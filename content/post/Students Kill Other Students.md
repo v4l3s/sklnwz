@@ -1,7 +1,7 @@
 ﻿+++
-author: "Parsuli"
-image: "img/img.jpg"
-date: "2016-11-05T18:25:22+05:30"
+author= "Parsuli"
+image= "img/img.jpg"
+date= "2016-11-05T18:25:22+05:30"
 +++
 # Students Kill Other Students
 
