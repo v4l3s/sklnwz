@@ -6,13 +6,9 @@ image= "img.jpg"
 
 Last night, at around 5:00 PM, ASM saw pigs flying around the school.
 
-The sight was awesome.
+<!--more-->
 
-uchdschod
-cwicowcjiw
-cwcowicjwc
-wcuowjc
-wcuowcjowc
+The sight was awesome.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAwNTAyMzRdfQ==
+eyJoaXN0b3J5IjpbMTYzNTQzNTEwOF19
 -->
