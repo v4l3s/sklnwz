@@ -13,7 +13,6 @@ body {
 
 .schoolimage {
   width: 6vw;
-  margin-bottom: 2vh;
 }
 
 .categories-block a {
@@ -21,7 +20,6 @@ body {
 }
 .sitetitle {
   height: 6vw;
-  margin-bottom: 2vh;
   text-align: right;
   font-family: Helvetica;
 }
