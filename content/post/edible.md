@@ -1,15 +1,5 @@
-+++
-
-image = "img/portfolio/a4-paper.jpg"
-
-date = "2017-11-05"
-
-title = "Edible Students"
-
-+++
-
- 
-
++++ date='2017-10-22' image='<IMG/IMG.JPG>' title='<TITLE OF POST> '+++
+ 
 Why would students eat each other?
 ==================================
 
