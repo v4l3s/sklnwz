@@ -13,9 +13,10 @@ body {
 
 .schoolimage {
   width: 6vw;
+  border-bottom: 1em;
 }
 
-.categories-block a {
+.opaque {
   opacity: 1;
 }
 .sitetitle {
