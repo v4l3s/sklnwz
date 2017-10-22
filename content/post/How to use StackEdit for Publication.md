@@ -1,7 +1,7 @@
 +++
 title="How to use StackEdit for Publication"
 date="2017-10-22"
-image="https://jeremykun.files.wordpress.com/2015/01/stackedit-logo.png?w=1024&h=338"
+image="https://lh3.googleusercontent.com/AfTW7EbXuRjztLKvXYdnxc527HAfoFr6MJD1JRksrKQjsznHRzcLDZD2fdOyJv-UDMmA-i1Z6A=w640-h400-e365"
 +++
 
 In this post, I'll be teaching you how to use StackEdit.
@@ -61,5 +61,5 @@ Here is an example of how this posts looks like in StackEdit format:
     Now that you have the post ready, you can sync it by going to the right side and clicking on the # image. Clicking **Sign in with Google** and signing in. Once you have that, click on **Synchronize>Save on Google Drive>Choose Folder** and go to your designated folder in the shared "School Publications". You should only have to select this once. When you do that and click on OK, your are done.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDQxOTQ5MF19
+eyJoaXN0b3J5IjpbMTgyNzI3ODMxOV19
 -->
