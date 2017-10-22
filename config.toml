@@ -3,7 +3,7 @@ title = "ASM News"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "asmschoolnews"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
