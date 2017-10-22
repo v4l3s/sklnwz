@@ -13,11 +13,11 @@ body {
 
 .schoolimage {
   width: 6vw;
-  border-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 .opaque {
-  opacity: 1; 
+  opacity: 1;
 }
 .sitetitle {
   height: 6vw;
