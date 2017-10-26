@@ -11,16 +11,17 @@ body {
   background: none;
 }
 
+.big-heading {
+  font-size: 30px;
+  font-family: Helvetica, arial, sans-serif;
+  font-weight: bold;
+}
+
 .schoolimage {
-  width: 6vw;
+  width: 10vh;
   margin-bottom: 1em;
 }
 
 .opaque {
   opacity: 1 !important;
-}
-.sitetitle {
-  height: 6vw;
-  text-align: right;
-  font-family: Helvetica;
 }
