@@ -26,7 +26,7 @@ Publish on git hub
 repostiory link: https://github.com/v4l3s/sklnwz
 
 For title: 
-content/post/TITLE
+content/post/TITLE.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzI0NDk2N119
+eyJoaXN0b3J5IjpbLTk3OTczNTY0MF19
 -->
