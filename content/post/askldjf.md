@@ -20,7 +20,13 @@ To add image: add url for image from google drive
 
 to add different sections click on three dots on the bar. 
 
+To publish:
 
+Publish on git hub
+repostiory link: https://github.com/v4l3s/sklnwz
+
+For title: 
+content/post/TITLE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTgxNjU2Nl19
+eyJoaXN0b3J5IjpbMTMyMzI0NDk2N119
 -->
