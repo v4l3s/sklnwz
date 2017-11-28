@@ -25,3 +25,7 @@ body {
 .opaque {
   opacity: 1 !important;
 }
+
+p img {
+  max-width: 100%;
+}
