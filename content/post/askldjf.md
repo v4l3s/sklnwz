@@ -1,6 +1,6 @@
 +++
 title= "Title"
-date="2017-08-3"
+date="2017-08-31"
 image="link"
 +++
 INTROOOO
@@ -27,5 +27,5 @@ repostiory link: https://github.com/v4l3s/sklnwz
 For title: 
 content/post/TITLE.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU0Nzk1MDddfQ==
+eyJoaXN0b3J5IjpbLTE2ODQyNjM5MDRdfQ==
 -->
