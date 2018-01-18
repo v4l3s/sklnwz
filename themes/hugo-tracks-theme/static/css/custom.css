@@ -29,3 +29,7 @@ body {
 p img {
   max-width: 100%;
 }
+
+li img {
+  max-width: 100%; 
+}
