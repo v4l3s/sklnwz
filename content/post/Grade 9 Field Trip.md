@@ -17,6 +17,3 @@ An additional activity which forced the students to get out of their comfort zon
 ![enter image description here](https://i.imgur.com/hfrZHFg.jpg)
 
 The only downsides of the trip according to students were the lack of wifi and short time of free time to spend all together, but other than that the trip can be considered successful and most of the students that attended the trip would be happy to repeat it again. 
-
-
-> Written with [StackEdit](https://stackedit.io/).
