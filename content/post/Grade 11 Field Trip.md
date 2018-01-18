@@ -22,4 +22,4 @@ We also visited Windsor castle, where we got a break for shopping and some histo
 ![enter image description here](https://i.imgur.com/Abz4ZXM.jpg)
 
 ![enter image description here](https://i.imgur.com/jbn6OiK.jpg)
-> Written with [StackEdit](https://stackedit.io/).
+
