@@ -18,4 +18,3 @@ This change also had a great impact on students and teachers. Not only does it p
 Everyone is really happy that the school thinks about making the world a cleaner: a better place for future generations! 
 
 By Zarina Muginova from 9th grade 
-> Written with [StackEdit](https://stackedit.io/).
