@@ -4,6 +4,7 @@ date="2018-01-24"
 image="https://www.wunderlist.com/blog/introducing-the-wunderlist-calendar-app-for-outlook-on-iphone-ipad-android/"
 +++
 Below is an interview with Parsa Rahimi, creater of the Calendar App that has helped students deal with the rotating 8 day - 5 classes schedule. 
+<!--more-->
 
 **Introduction**
 ----------------
