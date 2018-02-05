@@ -1,7 +1,7 @@
 +++
 title="ASM Disposes of Plastic Bottles"
 date="2017-10-28"
-image="https://i.imgur.com/jTOENT7.jpg"
+image="https://i.imgur.com/6aWMFRN.jpg"
 +++
 The American school of Milan no longer sells plastic water bottles! They have been replaced with reusable metallic ones which have been supplied to every student. The disposable plastic cups used at the water fountains have also been removed. 
 <!--more-->
