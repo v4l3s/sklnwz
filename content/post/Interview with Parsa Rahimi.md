@@ -167,3 +167,6 @@ I am happy I made this. I mean, there are superficial benefits to me making the 
 
 >   It's not about the destination; it's about the journey.
 
+
+Here is a [link](blog.parsuli.net) to his blog. 
+
