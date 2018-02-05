@@ -1,7 +1,7 @@
 +++
 title="Interview with Parsa Rahimi: Why and How I Made a Calendar Generator"
 date="2018-01-24"
-image="https://www.wunderlist.com/blog/introducing-the-wunderlist-calendar-app-for-outlook-on-iphone-ipad-android/"
+image="https://dr0wv9n0kx6h5.cloudfront.net/b9fef33c416c348126944987ef3c28b952f06597/content/03-blog/167-introducing-the-wunderlist-calendar-app-for-outlook-on-iphone-ipad-android/01@2x.png"
 +++
 Below is an interview with Parsa Rahimi, creater of the Calendar App that has helped students deal with the rotating 8 day - 5 classes schedule. 
 <!--more-->
