@@ -4,7 +4,7 @@ date="2018-01-27"
 image="https://i.imgur.com/xZVpaN7.jpg"
 +++
 
-Earlier this year the American School of Milan had the honor and pleasure to welcome Mrs. Liliana Segre as a special guest to talk and share her life experience with several of ASM’s students and parents. For both those who were or weren’t familiar with this woman and her life story, being able to attend her talk was undoubtedly a once in a lifetime enriching opportunity.
+Earlier this year the American School of Milan had the honor and pleasure to welcome Mrs. Liliana Segre as a special guest to talk and share her life experience with several of ASM’s students and parents. 
 <!--more-->
   
 Earlier this year the American School of Milan had the honor and pleasure to welcome Mrs. Liliana Segre as a special guest to talk and share her life experience with several of ASM’s students and parents. For both those who were or weren’t familiar with this woman and her life story, being able to attend her talk was undoubtedly a once in a lifetime enriching opportunity.
